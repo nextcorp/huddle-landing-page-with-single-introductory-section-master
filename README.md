@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-_lgGi1tO1C](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-_lgGi1tO1C)
+- Live Site URL: [https://nextcorp.github.io/huddle-landing-page-with-single-introductory-section-master/](https://nextcorp.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
